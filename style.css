@@ -20,3 +20,9 @@ footer{
     text-align: center;/*Centraliza o texto */
     font-style: italic;/*Itálico */
 }
+div{
+    text-align: center;/*Centraliza o texto */
+    
+    padding: 8px;
+
+}
