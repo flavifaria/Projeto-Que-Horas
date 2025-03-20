@@ -1,0 +1,1 @@
+alert('Bem vindo!');//Aparece uma mensagem de alerta na tela
